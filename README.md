@@ -1,4 +1,4 @@
-# Codes and data for the paper "System Size Independent Overlap Calculation Technique for Simulation of Nonsperical Rigid Bodies : A Data Driven Approach"
+# Codes and data for the paper "Machine Learning Assisted Monte Carlo Simulation: Efficient Overlap Determination for Nonspherical Hard Bodies"
 
 Please go to "master" branch for all the codes and data.
 
